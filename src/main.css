@@ -1,0 +1,933 @@
+
+.icon {
+    position: absolute;
+    top: -22px;
+    left: 0;
+    width: 1722px;
+    height: 1147px;
+    object-fit: cover;
+    opacity: 0.8;
+   
+    
+  }
+  .hud-futuristic-elements-4-scre-icon {
+    position: absolute;
+    top: 276px;
+    left: 83px;
+    border-radius: var(--br-29xl);
+    width: 1611px;
+    height: 509px;
+    object-fit: cover;
+    display: none;
+  }
+  
+
+  
+  .macbook-pro-16-14-child {
+    position: absolute;
+    top: 0;
+    left: -6px;
+    background-color: rgba(0, 0, 0, 0.71);
+    /* backdrop-filter: blur(1px); */
+    width: 1763px;
+    height: 1129px;
+
+   
+  }
+   .macbook-pro-16-14-item {
+    position: absolute;
+     top: 133px;
+    left: 1837px; 
+     border-radius: var(--br-29xl);
+    background-color: rgba(0, 0, 0, 0.71);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(1px); 
+     /* width: 1763px;
+    height: 1129px;  */
+    /* transform: rotate(90deg); */
+    /* transform-origin: 0 0; */
+     /* opacity: 1;  */
+   
+   } 
+  .hud-futuristic-elements-4-scre-icon1 {
+    position: absolute;
+    top: 133px;
+    left: -69px;
+    border-radius: 27px;
+    width: 1880px;
+    height: 990px;
+    object-fit: cover;
+  }
+  .macbook-pro-16-14-inner {
+    position: absolute;
+    top: 127px;
+    left: 1378px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, #3776f2, rgba(217, 217, 217, 0) 77.19%);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    filter: blur(50px);
+    width: 170.68px;
+    height: 158.57px;
+    transform: rotate(20.3deg);
+    transform-origin: 0 0;
+  }
+  .group-child,
+  .icon1 {
+    position: absolute;
+    top: 0;
+  }
+  .group-child {
+    left: 55px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, #3776f2, rgba(217, 217, 217, 0) 77.19%);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    filter: blur(50px);
+    width: 170.68px;
+    height: 158.57px;
+    transform: rotate(20.3deg);
+    transform-origin: 0 0;
+  }
+  .icon1 {
+    left: 0;
+    border-radius: var(--br-32xl);
+    width: 151px;
+    height: 46px;
+    object-fit: cover;
+  }
+  .connect,
+  .group-item {
+    position: absolute;
+    backdrop-filter: blur(20px);
+    
+ 
+  }
+  .group-item {
+    top: 12px;
+    left: 71px;
+    border-radius: var(--br-lgi);
+    background-color: var(--color-darkslateblue-100);
+    box-shadow: 0 4px 24.8px 4px rgba(0, 0, 0, 0.25);
+    width: 57px;
+    height: 22px;
+  }
+  .connect {
+    top: 15px;
+    left: 77px;
+    display: inline-block;
+    width: 61.47px;
+    height: 22.15px;
+    text-shadow: 0 4px 7.6px rgba(0, 0, 0, 0.25);
+    border-radius: 100px;
+    
+  }
+  .ellipse-parent,
+  .parent {
+    position: absolute;
+    top: 58px;
+    left: 29px;
+    width: 151px;
+    height: 46px;
+  }
+  .ellipse-parent {
+    top: 0;
+    left: 600px;
+    width: 215.08px;
+    height: 207.93px;
+    font-size: var(--font-size-2xs);
+    font-family: var(--font-k2d);
+  }
+  .group-inner {
+    position: absolute;
+    top: 115px;
+    left: 0;
+    border-radius: 2rem;
+    background-color:#0e579f;
+    box-shadow: 0 4px 16.1px 8px rgba(0, 0, 0, 0.25);
+    width: 800px;
+    height: 383px;
+    opacity: 0.5;
+  }
+  .photo1704179808-6-icon {
+    position: absolute;
+    
+    top: 0;
+    left: 0;
+    width: 440px;
+    height: 86.01px;
+    object-fit: contain;
+    opacity: 0.4;
+  }
+  .element-child {
+    position: absolute;
+    top: 13.27px;
+    left: 41.9px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-darkslateblue-200);
+    filter: blur(20px);
+    width: 315.39px;
+    height: 57.84px;
+  }
+  .element,
+  .photo1704179808-6-icon1 {
+    position: absolute;
+    top: 188.99px;
+    left: 72px;
+    width: 440px;
+    height: 86.01px;
+  }
+  .photo1704179808-6-icon1 {
+    top: 0;
+    left: 0;
+    height: 86px;
+    object-fit: contain;
+    opacity: 0.4;
+    
+  }
+  .photo1704179808-6-parent {
+    position: absolute;
+    top: 291.34px;
+    left: 72px;
+    width: 440px;
+    height: 86px;
+  }
+  .photo1704179808-6-icon2 {
+    position: absolute;
+    
+    top: 0;
+    left: 27px;
+    width: 500px;
+    height: 65.96px;
+    object-fit: contain;
+    background-color: #0e579f;
+    opacity: 0.4;
+    
+    
+    
+  }
+  .group-child1 {
+    position: absolute;
+    top: 11.26px;
+    left: 64.57px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-darkslateblue-200);
+    filter: blur(20px);
+    width: 485.99px;
+    height: 49.07px;
+  }
+  .photo1704179808-6-group {
+    position: absolute;
+    top: 399.97px;
+    left: 72px;
+    width: 678px;
+    height: 72.96px;
+  }
+  .amount,
+  .asset,
+  .balance,
+  .from {
+    position: absolute;
+    display: inline-block;
+    margin:15px;
+  }
+  .from {
+    top: 105px;
+    left: 40px;
+    font-size:2rem;
+    width: 139px;
+    height: 31px;
+    color: aliceblue;
+    font-family:var(--font-kadwa) ;
+    
+  }
+  .amount,
+  .asset,
+  .bal {
+    top: 180px;
+    left: 100px;
+    font-size: 1rem;
+    color: aliceblue;
+    font-family: var(--font-kadwa);
+    width: 88px;
+    height: 27px;
+  }
+  .amount,
+  .balance {
+    top: 280px;
+   
+  }
+  
+  
+  .bal {
+    position: absolute;
+    top: 380px;
+    left: 114px;
+    font-size: 1rem;
+    
+  }
+  .group-child2 {
+    position: absolute;
+    top: 227px;
+    left: 143px;
+    background: linear-gradient(
+      269.95deg,
+      rgba(217, 217, 217, 0),
+      rgba(0, 255, 194, 0.78)
+    );
+    filter: blur(20px);
+    backdrop-filter: blur(50px);
+    width: 223px;
+    height: 23px;
+  }
+  .ethereum,
+  .usdc {
+    font-family: var(--font-jua);
+    display: inline-block;
+  }
+  .usdc {
+    position: absolute;
+    top: 220px;
+    left: 170px;
+    font-size: 1.5rem;
+    width: 89px;
+    height: 20px;
+    color: aliceblue;
+    font-family: var(--font-kadwa);
+  }
+  .ethereum {
+    top: 227px;
+    left: 240px;
+    color: var(--color-silver-200);
+    width: 116px;
+    height: 20px;
+  }
+  .b,
+  .ellipse-div,
+  .ethereum {
+    position: absolute;
+    
+  }
+  .ellipse-div {
+    top: 216px;
+    left: 96px;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro);
+    width: 43px;
+    height: 44px;
+  }
+  .b {
+    top: 314px;
+    left: 135px;
+    font-size: 1.8rem;
+    display: inline-block;
+    width: 182px;
+    height: 38px;
+    color: aliceblue;
+  }
+  .group-child3 {
+    position: absolute;
+    top: 7.04px;
+    left: 8.04px;
+    border-radius: var(--br-lgi);
+    background-color: var(--color-lightskyblue);
+    width: 185.96px;
+    height: 225.16px;
+  }
+  .abstract-circle-technology-bac-icon {
+    position: absolute;
+    top: 71.37px;
+    left: 48.25px;
+    border-radius: var(--br-71xl);
+    width: 104.54px;
+    height: 110.57px;
+    object-fit: cover;
+  }
+  .bsc,
+  .network {
+    position: absolute;
+    top: 192.99px;
+    left: 81.42px;
+    display: inline-block;
+    width: 39.2px;
+    height: 27.14px;
+  }
+  .network {
+    top: 23.12px;
+    left: 52.27px;
+    font-size: var(--font-size-5xl);
+    color: var(--color-silver-100);
+    width: 115.6px;
+    height: 58.3px;
+  }
+  .futuristic-hud-element-interfa-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 194px;
+    height: 240.24px;
+    object-fit: contain;
+     
+   
+    
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 161.86px;
+    left: 564px;
+    width: 194px;
+    height: 240.24px;
+    font-size: var(--font-size-xl);
+  }
+  .futuristic-hud-element-interfa-icon1 {
+    position: absolute;
+    width: 140px;
+    height: 190px;
+    top: 340px;
+    left: 280px;
+    opacity: 0.4;
+    
+    
+    object-fit: contain;
+  }
+  .group-parent,
+  .rectangle-icon {
+    position: absolute;
+    top: 108px;
+    left: 424px;
+    width: 815.08px;
+    height: 498px;
+  }
+  .rectangle-icon {
+    top: 0;
+    left: 0;
+    width: 1728px;
+    height: 133px;
+  }
+  .logo-white-f4487d53-2-icon {
+    position: absolute;
+    top: 20px;
+    left: 352px;
+    width: 244px;
+    height: 104px;
+    overflow: hidden;
+  }
+  .home-usdc-wormholescan {
+    position: absolute;
+    top: 50px;
+    left: 900px;
+    font-size: 1.7rem;
+    display: flex;
+    white-space: pre-wrap;
+    color:white;
+    width: 494px;
+    height: 58px;
+    word-spacing: 3rem;
+    font-family: var(--font-kadwa);
+  }
+  .images-1-2 {
+    position: absolute;
+    top: 610px;
+    left: 811px;
+    border-radius: 104px;
+    width: 84px;
+    height: 85px;
+    object-fit: contain;
+    rotate: 90deg;
+  }
+  .group-child4 {
+    position: absolute;
+    top: 114px;
+    left: 0;
+    border-radius: 2rem;
+    background-color:#0e579f;;
+    box-shadow: 0 4px 16.1px 8px rgba(0, 0, 0, 0.25);
+    width: 800px;
+    height: 383px;
+    opacity: 0.5;
+  }
+  .to1 {
+    margin: 0;
+  }
+  .element1,
+  .to {
+    position: absolute;
+  }
+  .to {
+    top: 120px;
+    left: 50px;
+    font-size: 2rem;
+    display: inline-block;
+    width: 139px;
+    height: 31px;
+    color: aliceblue;
+    font-family: var(--font-kadwa);
+  }
+  .element1 {
+    top: 187.99px;
+    left: 72px;
+    width: 440px;
+    height: 86.01px;
+  }
+  .group-child7,
+  .group-div,
+  .photo1704179808-6-container {
+    position: absolute;
+    top: 290.34px;
+    left: 72px;
+    width: 440px;
+    height: 86px;
+  }
+  .group-child7,
+  .group-div {
+    top: 398.97px;
+    width: 678px;
+    height: 72.96px;
+  }
+  .group-child7 {
+    top: 226px;
+    left: 143px;
+    background: linear-gradient(
+      269.95deg,
+      rgba(217, 217, 217, 0),
+      rgba(0, 255, 194, 0.78)
+    );
+    filter: blur(20px);
+    backdrop-filter: blur(50px);
+    width: 223px;
+    height: 23px;
+  }
+  .usdc1 {
+    
+      position: absolute;
+      top: 220px;
+      left: 170px;
+      font-size: 1.5rem;
+      width: 89px;
+      height: 20px;
+      color: aliceblue;
+      font-family: var(--font-kadwa);
+    
+  }
+  .b1,
+  .ethereum1,
+  .usdc1 {
+    position: absolute;
+    display: inline-block;
+    color: aliceblue;
+    
+    
+  }
+  .ethereum1 {
+    top: 227px;
+    left: 240px;
+    color: var(--color-silver-200);
+    width: 116px;
+    height: 20px;
+  }
+  .b1 {
+    top: 314px;
+    left: 135px;
+    font-size: var(--font-size-13xl);
+    width: 182px;
+    height: 38px;
+    font-size: 1.8rem;
+  }
+  .rectangle-container {
+    position: absolute;
+    top: 160.86px;
+    left: 564px;
+    width: 194px;
+    height: 240.24px;
+    font-size: var(--font-size-xl);
+  }
+  .futuristic-hud-element-interfa-icon3 {
+    position: absolute;
+    top: 405px;
+    left: 250px;
+    width: 180px;
+    height: 50px;
+    object-fit: contain;
+    opacity: 0.4;
+    
+    
+  }
+  .amount1,
+  .asset1,
+  .balance1 {
+    position: absolute;
+    top: 194px;
+    left: 115px;
+    font-size: 1rem;
+    display: inline-block;
+    width: 88px;
+    height: 27px;
+    color: aliceblue;
+  }
+  .amount1,
+  .balance1 {
+    top: 295px;
+  }
+  .balance1 {
+    top: 400px;
+    left: 115px;
+  }
+  .group-child11 {
+    position: absolute;
+    top: 216px;
+    left: 99px;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro);
+    width: 43px;
+    height: 44px;
+  }
+  .rectangle-group {
+    position: absolute;
+    top: 585px;
+    left: 432px;
+    width: 815.08px;
+    height: 497px;
+    
+  }
+  .macbook-pro-16-14 {
+    position: relative;
+    background-color: #000;
+    width: 1722px;
+    height: 1147px; /* Adjusted height */
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-kadwa);
+}
+
+  /* Add these styles to your existing main.css file or include them within your React component styles */
+
+/* .macbook-pro-16-14 {
+  position: relative;
+  background-color: #000;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-kadwa);
+} */
+
+/* add new */
+.sub-menu-wrap.active{
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+
+}
+.sub-menu-wrap.active{
+   opacity: 0;
+   visibility: hidden;
+   transform: translateY(-20px);
+
+}
+
+.nexpage{
+  position: absolute;
+  top: 80px;
+  left: 670px;
+  width: 90rem;
+  height: 60rem;
+  rotate: 90deg;
+  z-index: +1;
+ 
+}
+.nextImage{
+  position: absolute;
+  width: 319px;
+height: 81px;
+top: 31px;
+left: 1201px;
+z-index: +1;
+
+  
+}
+.text2{
+  /* position: absolute; */
+  z-index: +1;
+ position: absolute;
+ width: 123px;
+height: 16px;
+top: 52px;
+left: 1357px;
+color: rgb(0, 0, 0);
+
+
+}
+.text1{
+  position: absolute;
+z-index: +1;
+width: 123px;
+height: 16px;
+top: 30px;
+left: 1357px;
+color: rgb(240, 248, 255);
+
+}
+.mainbox{
+  z-index: +1;
+  position: absolute;
+  width: 594px;
+  height: 216px;
+  top: 136px;
+  left: 1095px;
+  
+}
+ .circle{
+  z-index: +1;
+   position: absolute; 
+   width: 45px;
+   height: 47px;
+   top: 47px;
+   left: 1220px;
+   border-radius: 27px;
+   
+
+} 
+.bow{
+  z-index: +1;
+  position:absolute;
+  width: 48px;
+height: 48px;
+top: 70px;
+left: 1579px;
+border-radius: 8px;
+opacity: 0.4;
+
+}
+.shadow{
+  position: absolute;
+  width: 491px;
+  height: 595px;
+  top: 371px;
+  left: 1191px;
+  border-radius: 23px;
+  background-color:#0e579f;
+  box-shadow: 0 4px 16.1px 8px rgba(0, 0, 0, 0.25);
+  opacity: 0.5;
+  z-index: +1;
+}
+.shadow1{
+  z-index: +1;
+  position:absolute;
+}
+.whiteshadow{
+   position: absolute;
+   top:38px;
+   left:30px;
+   opacity: 0.9;
+   z-index: +1;
+} 
+.update{
+  position: absolute;
+  z-index: +1;
+  color: rgb(255, 255, 255);
+  
+top:1px;
+left:40px;
+font-size: 18px;
+
+
+}
+.row2{
+  position: absolute;
+  z-index: +1;
+  left:30px;
+  top:175px;
+  opacity: 0.9;
+}
+.row3{
+  position: absolute;
+  z-index: +1;
+  left:30px;
+  top:280px;
+  opacity: 0.9;
+}
+.row4{
+  position: absolute;
+  z-index: +1;
+  left:30px;
+  top:385px;
+  opacity: 0.9;
+}
+.row5{
+  position: absolute;
+  z-index: +1;
+  left:30px;
+  top:490px;
+  opacity: 0.9;
+}
+.bigcol{
+  position: absolute;
+  z-index: +1;
+  left:470px;
+  top:150px;
+}
+.blackcol{
+  position: absolute;
+  z-index: +1;
+  left:470px;
+  top:155px;
+  }
+  .cloud{
+    position: absolute;
+    width:400px;
+    top: 990px;
+    left: 1200px;
+    border-radius: 101px;
+    opacity: 0.3;
+    z-index: +1;
+ }
+ .points{
+  z-index: +1;
+  position: absolute;
+  width: 115px;
+height: 20px;
+top: 194px;
+left: 1212px;
+color:aliceblue
+
+}
+.balance{
+  z-index: +1;
+  position: absolute;
+  width: 115px;
+height: 20px;
+top: 196px;
+left: 1360px;
+color: aliceblue;
+
+}
+.zero{
+  z-index: +1;
+  position: absolute;
+  width: 115px;
+height: 20px;
+top: 180px;
+left: 1237px;
+color: aliceblue;
+font-size: 50px;
+
+}
+.smallbox{
+  z-index: +1;
+  position: absolute;
+  width: 115px;
+height: 115px;
+top: 181px;
+left: 1502px;
+border-radius: 18px;
+background: #B1F6FF69;
+}
+.profit{
+  z-index: +1;
+  position: absolute;
+  top:1px;
+  left:15px;
+  color:aliceblue
+}
+.number{
+  z-index: +1;
+  position: absolute;
+  top:1px;
+  left:25px;
+  color: aliceblue;
+  font-size: 35px;
+}
+.week{
+  z-index: +1;
+  position: absolute;
+  color: aliceblue;
+  left:35px;
+  top:65px;
+  font-size: 10px;
+}
+.redeem{
+  z-index: +1;
+  position: absolute;
+  color: aliceblue;
+  font-size: 15px;
+  left:30px;
+  top:75px;
+}
+ .macbook-pro-16-14 {
+  position: relative;
+  background-color: #000;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-kadwa);
+} 
+
+/* media query  */
+@media only screen and (max-width: 750px) {
+  /* Media query for iPhone-width screens */
+
+  .rectangle-icon {
+    width: 100%; 
+    height: auto; 
+    left: 50%;
+    transform: translateX(-50%); 
+  }
+
+  
+}
+@media only screen and (max-width: 750px) {
+  
+
+  .home-usdc-wormholescan {
+    width: 100%; 
+    height: auto;
+    left: 50%; 
+    transform: translateX(-50%);
+  }
+
+  
+}
+@media only screen and (max-width: 750px) {
+  
+
+  .logo-white-f4487d53-2-icon {
+    width: 100%; 
+    height: auto; 
+    left: 50%;
+    transform: translateX(-50%); 
+  }
+
+ 
+}
+@media only screen and (max-width: 750px) {
+ 
+
+  .macbook-pro-16-14-child {
+    width: 100%; 
+    height: auto;
+    left: 50%; 
+    transform: translateX(-50%);
+  }
+
+ 
+}
+@media only screen and (max-width: 750px) {
+  
+
+  .macbook-pro-16-14-item {
+    width: 100%; 
+    height: auto; 
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  
+}
+
+
+ 
